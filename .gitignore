@@ -1,0 +1,7 @@
+ac-comphist.dat
+ac-dict
+*.elc
+**/*.elc
+auto-save-list
+bookmarks
+eshell

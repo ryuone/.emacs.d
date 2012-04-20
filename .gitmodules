@@ -1,0 +1,36 @@
+[submodule "elisp/js2-mode"]
+	path = elisp/js2-mode
+	url = https://github.com/mooz/js2-mode.git
+[submodule "elisp/rhtml"]
+	path = elisp/rhtml
+	url = https://github.com/eschulte/rhtml.git
+[submodule "elisp/buster-snippets"]
+	path = elisp/buster-snippets
+	url = https://github.com/magnars/buster-snippets.el.git
+[submodule "elisp/buster-mode"]
+	path = elisp/buster-mode
+	url = git://gitorious.org/buster/buster-mode.git
+[submodule "elisp/js2-refactor"]
+	path = elisp/js2-refactor
+	url = https://github.com/magnars/js2-refactor.el.git
+[submodule "elisp/mark-multiple"]
+	path = elisp/mark-multiple
+	url = https://github.com/magnars/mark-multiple.el.git
+[submodule "elisp/coffee-mode"]
+	path = elisp/coffee-mode
+	url = https://github.com/defunkt/coffee-mode.git
+[submodule "elisp/yasnippet"]
+	path = elisp/yasnippet
+	url = https://github.com/capitaomorte/yasnippet.git
+[submodule "elisp/sass-mode"]
+	path = elisp/sass-mode
+	url = https://github.com/nex3/sass-mode.git
+[submodule "elisp/scss-mode"]
+	path = elisp/scss-mode
+	url = https://github.com/antonj/scss-mode.git
+[submodule "elisp/haml-mode"]
+	path = elisp/haml-mode
+	url = https://github.com/nex3/haml-mode.git
+[submodule "elisp/rinari"]
+	path = elisp/rinari
+	url = https://github.com/eschulte/rinari.git
